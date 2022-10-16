@@ -1,9 +1,11 @@
-
 body {
   margin: 0px;
 }
 
 .footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
   height: 150px;
   background-color: lightgrey;
 }

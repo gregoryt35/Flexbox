@@ -3,6 +3,9 @@ body{
 }
 
 .sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 150px;
   background-color: lightgrey;
   height: 100vh;
